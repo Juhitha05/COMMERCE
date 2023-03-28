@@ -8,4 +8,3 @@ Customers can create an account, search for books by title, author, or genre, an
 Additionally, the system provides customer management tools that enable the store owner to manage customer accounts, track order history, and send promotional offers and newsletters to customers.
 
 Overall, an E-commerce online book store management system provides an efficient and user-friendly solution for managing an online book store, enabling the store owner to focus on providing quality products and services to their customers.
-
